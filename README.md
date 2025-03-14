@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberta</h1>
 <h3 align="center">A passionate frontend-end leaning full-stack developer from NYC</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/robertaninfeliz"></a></h3>
 <p align="left">
 </p>
 
